@@ -5,7 +5,7 @@
 
 # Installation
 
-#### Dependencies : Maven, Rest Assured, TestNG
+#### Dependencies : Maven, Rest Assured, TestNG, IntelliJIDEA and JAVA
 
 
 # Usage
